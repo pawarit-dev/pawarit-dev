@@ -5,7 +5,7 @@
     <em>"Transforming innovative concepts into scalable, efficient solutions."</em> 🌻
   </p>
 
-  <a href="https://linkedin.com/in/YOURUSERNAME">
+  <a href="https://linkedin.com/in/pawarit-setsuwan-b620443a9">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:pawarit.setsuwan@gmail.com">

@@ -1,6 +1,4 @@
 <div align="center">
-
-  <img src="https://media.giphy.com/media/TvLuZ00OIADoQ/giphy.gif" width="40px">
   <h1>Hello, World! I'm <span style="color:#2E8B57">Pawarit</span> 🌿</h1>
 
   <p>
@@ -10,7 +8,7 @@
   <a href="https://linkedin.com/in/YOURUSERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:YOUREMAIL@gmail.com">
+  <a href="mailto:pawarit.setsuwan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send_Love-556B2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
@@ -32,7 +30,7 @@
 
 ### 🌳 Currently Cultivating
 
-🪵 **Project:** *[Project Name / What you are learning]*
+🪵 **Project:** *Truck Classification*
 🍃 **Status:** Watering the code and fixing the bugs. (Work in progress!)
 
 <hr />
@@ -82,8 +80,6 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/M9Hp99wW3QG8o/giphy.gif" width="80px" alt="plant">
-
-**Thanks for visiting my garden! 🍂**
+**Thanks for visiting my git! 🍂**
 
 </div>

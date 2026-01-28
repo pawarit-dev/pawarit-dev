@@ -2,7 +2,7 @@
   <h1>Hello, World! I'm <span style="color:#2E8B57">Pawarit</span> 🌿</h1>
 
   <p>
-    <em>"Planting ideas and watching them grow into code."</em> 🌻
+    <em>"Transforming innovative concepts into scalable, efficient solutions."</em> 🌻
   </p>
 
   <a href="https://linkedin.com/in/YOURUSERNAME">
@@ -22,23 +22,23 @@
 
 ### 🌱 About Me
 
-👋 **Hi there!** I'm a developer who loves nature and technology.
+�‍💻 **Professional Overview:** Software Developer with a passion for creating robust solutions at the intersection of nature-inspired design and cutting-edge technology.
 
-🌷 **Coding Hobby:** Whenever I have free time, I enjoy **[Coding Hobby]**. It helps my creativity bloom!
-
-<hr />
-
-### 🌳 Currently Cultivating
-
-🪵 **Project:** *Truck Classification*
-🍃 **Status:** Watering the code and fixing the bugs. (Work in progress!)
+🎯 **Focus Areas:** Specializing in **Machine Learning, Computer Vision, and Full-Stack Development**. Continuously exploring innovative approaches to solve complex technical challenges.
 
 <hr />
 
-### 🍀 Fun Fact
+### 🌳 Current Projects
 
-🍄 **Did you know?**
-[Insert Fun Fact here e.g., "I name my variables after types of flowers!"]
+🚀 **Active Development:** *Truck Classification System using Deep Learning*
+📊 **Status:** In progress - Optimizing model performance and implementing production-ready features.
+
+<hr />
+
+### 🍀 Professional Insight
+
+💡 **Development Philosophy:**
+I believe in writing clean, maintainable code that not only solves problems but also serves as documentation for future developers.
 
 </td>
 <td width="45%" valign="top">
@@ -48,7 +48,8 @@
 
 <div align="center">
 
-![Most Used Tool](https://img.shields.io/badge/[Most%20Used%20Tool]-D2691E?style=for-the-badge&logo=[Most%20Used%20Tool]&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br/>
 
@@ -80,6 +81,6 @@
 
 <br/><br/>
 
-**Thanks for visiting my git! 🍂**
+**Thank you for visiting my profile. Feel free to explore my repositories and connect!** 🍂
 
 </div>
